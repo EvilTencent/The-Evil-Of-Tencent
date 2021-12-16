@@ -18,7 +18,7 @@ YYYY-MM-DD-事件名称
 
 ## 类似项目
 [Evil Huawei](https://github.com/evil-huawei/evil-huawei)
-
+[Evil Alibaba](https://github.com/AlibabaEvil/AlibabaEvil)
 最后
 感谢Github提供了一个不会被Tencent限流/删帖/降热度的地方。
 
