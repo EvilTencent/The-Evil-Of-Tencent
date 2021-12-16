@@ -3,12 +3,13 @@ AKA **Fuck Tencent**.
 
 
 ## 项目起源
-R.I.P FOR [QianMo](https://github.com/QianMo)
+R.I.P For [QianMo](https://github.com/QianMo)
 
 ## 说明
 收集腾讯做的恶
-欢迎PR。
+欢迎使用PR功能新建事件和补充细节。
 
 格式: 
 YYYY-MM-DD-事件名称.md
 
+感谢Github提供了一个不会被Tencent限流/删帖/降热度的地方。
