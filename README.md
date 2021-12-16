@@ -16,7 +16,10 @@ YYYY-MM-DD-事件名称
 如果记不得时间，则写个大概年份就可
 如果没空补充细节，可以提交一个只有标题的空文档。
 
-
+## 类似项目
+[Evil Huawei](https://github.com/evil-huawei/evil-huawei)
 
 最后
 感谢Github提供了一个不会被Tencent限流/删帖/降热度的地方。
+
+
